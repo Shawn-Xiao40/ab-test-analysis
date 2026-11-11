@@ -1,0 +1,10 @@
+# Data files are not committed (Kaggle data has its own license)
+data/raw/*
+!data/raw/.gitkeep
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
